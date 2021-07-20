@@ -9,7 +9,7 @@ O objetivo desse documento é **treinar** o conhecimento em md ( _Markdown langu
 
 Até agora você aprendeu:
 * Itálico e negrito
-* * Links
+ * Links
 * Imagens
 * Citações
 * E ainda **muita coisa por vir!**
