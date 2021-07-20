@@ -18,9 +18,4 @@ Como:
 * Listas
   * Listas
     * E mais listas!
-   
- Isso é:
- 
-    1. Uma
-    2. Duas
-    3. Mais de três listas
+   Isso é:
