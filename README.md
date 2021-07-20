@@ -26,4 +26,4 @@ Como:
 
 E assim  
 Meus amigos  
-A _jornada_ termina
+A _jornada_ termina.
