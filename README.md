@@ -6,6 +6,8 @@ O objetivo desse documento é **treinar** o conhecimento em md ( _Markdown langu
 ![Orange_cat](http://icons.iconarchive.com/icons/google/noto-emoji-animals-nature/256/22221-cat-icon.png) 
 >"Bem vindo humano!"
 
+* Calculus
+ * A professor
 
 Até agora você aprendeu:
 * Itálico e negrito
