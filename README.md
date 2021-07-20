@@ -13,3 +13,12 @@ Até agora você aprendeu:
 * Imagens
 * Citações
 * E ainda **muita coisa por vir!**
+
+Como
+* Listas
+ * Listas
+  * E mais listas!
+  * Isso é:
+   1. Uma
+   2. Duas
+   3. Mais de três listas
