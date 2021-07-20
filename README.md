@@ -14,9 +14,9 @@ Até agora você aprendeu:
 * Citações
 * E ainda **muita coisa por vir!**
 
-Como
+Como:
 * Listas
- * Listas
+ ** Listas
   * E mais listas!
   * Isso é:
    1. Uma
